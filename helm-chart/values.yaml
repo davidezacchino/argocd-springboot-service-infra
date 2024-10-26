@@ -5,7 +5,7 @@ name: argocd-springboot-service
 namespace: dev
 imageTag: 'd028397e31ce171943d24237398ac0b058d173c0'
 
-replicaCount: 1
+replicaCount: 2
 
 resources:
   cpuLimit: 900m
